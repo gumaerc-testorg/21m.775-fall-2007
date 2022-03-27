@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2cea638c-8051-9884-6216-116c6f964a9f
 resourcetype: Document
 title: 'The Uprising of Ibilys: A Violent Fantasy '
 uid: 561c3b3d-904a-54cc-3276-170098180a33

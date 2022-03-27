@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2cea638c-8051-9884-6216-116c6f964a9f
 resourcetype: Document
 title: 'Possibilities for Peace: Israeli & Palestinian hip-hop as tools for achieving
   a stable, long-term peace in the Middle East'
