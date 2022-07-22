@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about the group presentation, performance
+  analysis, the final paper, and example student papers.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 2cea638c-8051-9884-6216-116c6f964a9f
 ---
@@ -40,9 +45,9 @@ Following are some exemplary student papers, presented courtesy of the authors a
 
 ### 2007 Class
 
-*   "The Uprising of Ibilys: A Violent Fantasy" by Sarah Dupuis ([PDF]({{< baseurl >}}/resources/dupuisfinal))
-*   "Can Hip Hop be the Same With White People in the Game?" by Irene Headen ([PDF]({{< baseurl >}}/resources/headenfinal))
+*   "The Uprising of Ibilys: A Violent Fantasy" by Sarah Dupuis ({{% resource_link 561c3b3d-904a-54cc-3276-170098180a33 "PDF" %}})
+*   "Can Hip Hop be the Same With White People in the Game?" by Irene Headen ({{% resource_link 1e0f91d1-3567-7e12-1823-1b2ae682530b "PDF" %}})
 
 ### 2006 Class
 
-*   "Possibilities for Peace: Israeli and Palestinian hip-hop as tools for achieving a stable, long-term peace in the Middle East" by Jonathan Krones ([PDF]({{< baseurl >}}/resources/krones2006final))
+*   "Possibilities for Peace: Israeli and Palestinian hip-hop as tools for achieving a stable, long-term peace in the Middle East" by Jonathan Krones ({{% resource_link 6c13a891-2555-d66d-9538-5a8e6a64ba9a "PDF" %}})
