@@ -4,6 +4,7 @@ description: 'Example of a completed student project: "Possibilities for Peace: 
   and Palestinian hip-hop as tools for achieving a stable, long-term peace in the
   Middle East" by Jonathan Krones.'
 file: /courses/21m-775-hip-hop-fall-2007/6c13a8912555d66d95385a8e6a64ba9a_krones2006final.pdf
+file_size: 237333
 file_type: application/pdf
 learning_resource_types:
 - Assignments

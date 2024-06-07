@@ -40,7 +40,7 @@ Unit 1 (3 sessions)
 
 Initial free-writing assignment due
 
-In class: Performance poet {{% resource_link "2a9b1bca-b6df-40af-ac29-f62c24b69996" "Staceyanne Chin" %}}. She is a fulltime artist, resident of New York City, a Jamaican National, and has been an "out poet and political activist" since 1998.
+In class: Performance poet [Staceyanne Chin](http://authors.simonandschuster.com/Staceyann-Chin/36788964). She is a fulltime artist, resident of New York City, a Jamaican National, and has been an "out poet and political activist" since 1998.
 
 
 {{< tdclose >}}
@@ -64,7 +64,7 @@ How is dance "central" to hip hop culture? How is it marginalized? What kinds of
 
 Group presentation during 2nd session
 
-In class: Rokafella and Kwikstep (of {{% resource_link "e01ad1c2-0187-4fb9-a9fd-a19f7bff3f3f" "Full Circle Productions" %}}) performance and demonstration of work with MIT students. Full Circle Productions is a hip-hop dance theater company that offers an equal balance of men and women in presentations of authentic hip-hop dance technique from NYC hip-hop street culture.
+In class: Rokafella and Kwikstep (of [Full Circle Productions](http://www.fullcirclesouljahs.com/)) performance and demonstration of work with MIT students. Full Circle Productions is a hip-hop dance theater company that offers an equal balance of men and women in presentations of authentic hip-hop dance technique from NYC hip-hop street culture.
 
 
 {{< tdclose >}}
@@ -108,7 +108,7 @@ Is hip hop obsessed with depictions of sex and sexuality? What kinds of depictio
 
 Group presentation during 2nd session
 
-In-class: visit by filmmaker and cultural critic {{% resource_link "e621f178-16e1-4366-9b5c-d42c722a5bc2" "Byron Hurt" %}}. More than a filmmaker, Byron Hurt is an anti-sexist activist who provides cutting-edge male leadership, expert analysis, keynote addresses, and workshop facilitation in the field of sexual and gender violence prevention and education.
+In-class: visit by filmmaker and cultural critic [Byron Hurt](http://www.bhurt.com/). More than a filmmaker, Byron Hurt is an anti-sexist activist who provides cutting-edge male leadership, expert analysis, keynote addresses, and workshop facilitation in the field of sexual and gender violence prevention and education.
 
 
 {{< tdclose >}}
