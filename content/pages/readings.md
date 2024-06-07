@@ -75,7 +75,7 @@ Unit 1
 Introduction and overview
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "ac0d844c-64e1-45ec-b529-98fd24faf42d" "Wild Style" %}} (Charlie Ahearn, 1983)
+[Wild Style](http://www.imdb.com/title/tt0084904/) (Charlie Ahearn, 1983)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -112,13 +112,13 @@ Dance
 {{< tdopen >}}
 
 
-{{% resource_link "f34e7d8d-5712-4bab-9b1d-b01d94e1f802" "The Freshest Kids: A History of the B-Boy" %}} (Israel, 2002)
+[The Freshest Kids: A History of the B-Boy](http://www.imdb.com/title/tt0361638/) (Israel, 2002)
 
-{{% resource_link "569e60f5-0e64-4dfd-962e-6b0040fc6ae0" "Everybody Dance Now" %}} (documentary for PBS series _Dance In America/Great Performances_, 1991)
+[Everybody Dance Now](http://www.imdb.com/title/tt0319386/) (documentary for PBS series _Dance In America/Great Performances_, 1991)
 
 ### Supplementary
 
-{{% resource_link "ad6089d2-1cbc-4680-8618-bf04eb077e33" "Rhyme and Reason" %}} (Peter Spirer, 1997)
+[Rhyme and Reason](http://www.imdb.com/title/tt0120014/) (Peter Spirer, 1997)
 
 
 {{< tdclose >}}
@@ -153,7 +153,7 @@ Unit 3
 Graffiti, fashion, and visual culture
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "0cf0bad3-87e7-4366-a262-4a2a7eba9a5a" "Style Wars" %}} (Tony Silver and Harry Chalfant, 1983) in class
+[Style Wars](http://www.imdb.com/title/tt0177262/) (Tony Silver and Harry Chalfant, 1983) in class
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -162,7 +162,7 @@ Austin, Joe. "Taking The Trains: The Formation and Structure of 'Writing Culture
 
 Wimsatt, William Upski. "Suckers Don't Last a Minute: Good Rhyme, Bad Theory" and "Hip-Hop is Supposed to Eliminate Itself." In _Bomb the Suburbs_. New York, NY: Soft Skull Press, 1995, pp. 145-155. ISBN: 9780964385504.
 
-Specter, Michael. "I Am Fashion: Puff Daddy Packages His World." _The New Yorker_. September 9, 2002, pp. 116-127. ({{% resource_link "e4484ec4-548a-4212-b8e1-c7f692b473c5" "PDF - 5.2 MB" %}})
+Specter, Michael. "I Am Fashion: Puff Daddy Packages His World." _The New Yorker_. September 9, 2002, pp. 116-127. ([PDF - 5.2 MB](http://www.michaelspecter.com/wp-content/uploads/puffdaddy.pdf))
 
 ### Supplementary
 
@@ -188,7 +188,7 @@ Unit 4
 Sex and sexuality
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "b5eaeba2-373f-4f67-b6b2-43652ee30dca" "Hip Hop: Beyond Beats and Rhymes" %}} (Byron Hurt, 2005)
+[Hip Hop: Beyond Beats and Rhymes](http://www.pbs.org/independentlens/hiphop/) (Byron Hurt, 2005)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -225,7 +225,7 @@ Unit 5
 Anarchy and activism
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "ad6089d2-1cbc-4680-8618-bf04eb077e33" "Rhyme and Reason" %}} (Peter Spirer, 1997) in class
+[Rhyme and Reason](http://www.imdb.com/title/tt0120014/) (Peter Spirer, 1997) in class
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -280,9 +280,9 @@ Misogyny and feminism
 {{< tdopen >}}
 
 
-{{% resource_link "bfa4c055-fdaf-4e14-804f-337ff8fb351a" "Nobody Knows My Name" %}} (Rachel Raimist, 1999)
+[Nobody Knows My Name](http://www.wmm.com/filmcatalog/pages/c516.shtml) (Rachel Raimist, 1999)
 
-{{% resource_link "c33d30ad-735b-49d0-8613-13cf050ba265" "Freestyle: The Art of Rhyme" %}} (Kevin Fitzgerald, 2000)
+[Freestyle: The Art of Rhyme](http://www.imdb.com/title/tt0262424/) (Kevin Fitzgerald, 2000)
 
 
 {{< tdclose >}}
@@ -360,7 +360,7 @@ Unit 8
 Globalization
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "b9480865-86b5-4d28-8206-ec8f7f1f8ded" "Resistencia: Hip-Hop in Colombia" %}} (Tom Feiling, 2002)
+[Resistencia: Hip-Hop in Colombia](http://www.tomfeiling.com/documentary.html) (Tom Feiling, 2002)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -387,14 +387,14 @@ Unit 9
 DJ'ing and musicality
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "e504f6d5-cce1-4aa2-9ab1-0c8d28aa73e1" "Scratch" %}} (Doug Pray, 2001)
+[Scratch](http://www.imdb.com/title/tt0143861/) (Doug Pray, 2001)
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 London. "Transmaterializing the Breakbeat" and "Virtualizing the Breakbeat." pp. 13-25; 67-77.
 
-Explore {{% resource_link "937768db-c711-4212-9834-38fac33a1783" "Battle sounds" %}}
+Explore [Battle sounds](http://www.battlesounds.com/)
 
 
 {{< tdclose >}}
@@ -429,7 +429,7 @@ London. "Motion Capture," pp. 175-193.
 
 ### Supplementary
 
-Lovink, Geert. "{{% resource_link "e1c3288f-a41f-4a15-92b7-fd995880caba" "'Everything was to be done. All the adventures are still there.' A Speculative Dialogue with Kodwo Eshun" %}}."
+Lovink, Geert. "['Everything was to be done. All the adventures are still there.' A Speculative Dialogue with Kodwo Eshun](http://www.heise.de/tp/r4/artikel/6/6902/1.html)."
 
 
 {{< tdclose >}}
@@ -449,15 +449,15 @@ Whiteness
 {{< tdopen >}}
 
 
-{{% resource_link "3a958060-ba65-452e-8727-f44d7834df1c" "Jails, Hospitals, Hip Hop" %}} (Mark Benjamin, Danny Hoch, 2002)
+[Jails, Hospitals, Hip Hop](http://www.imdb.com/title/tt0210130/) (Mark Benjamin, Danny Hoch, 2002)
 
 ### Supplementary
 
-{{% resource_link "d2c5bb63-4606-498e-a28c-c751838aa0a3" "Black and White" %}} (2000)
+[Black and White](http://imdb.com/title/tt0165643/) (2000)
 
-{{% resource_link "5d4341ac-0249-42fa-aa5b-fdfab6c1bd3b" "Bulworth" %}} (1998)
+[Bulworth](http://imdb.com/title/tt0118798/) (1998)
 
-{{% resource_link "c3a1dea0-04e2-4295-a3a6-29a4a172cb43" "8 Mile" %}} (2002)
+[8 Mile](http://imdb.com/title/tt0298203/) (2002)
 
 
 {{< tdclose >}}
@@ -505,7 +505,7 @@ Underground
 
 Usher, Carlton A. "Underground Hip Hop Culture" In _A Rhyme is a Terrible Thing To Waste_. Trenton, NJ: Africa World Press, Inc., 2005. ISBN: 9781592213184.
 
-Explore {{% resource_link "8158587e-faed-4f71-8e43-e1e109cd942e" "Underground Hip Hop" %}} and {{% resource_link "6f94bdc2-3dbd-4d0a-9b12-a47f1f18e3b5" "Hip-Hop Linguistics" %}}
+Explore [Underground Hip Hop](http://www.undergroundhiphop.com/) and [Hip-Hop Linguistics](http://www.hiphoplinguistics.com/)
 
 
 {{< tdclose >}}
