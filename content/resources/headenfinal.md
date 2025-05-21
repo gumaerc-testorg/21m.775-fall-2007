@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of a completed student project: "Can Hip Hop be the Same With
   White People in the Game?" by Irene Headen.'
-file: /ol-ocw-studio-app/courses/21m-775-hip-hop-fall-2007/1e0f91d135677e1218231b2ae682530b_headenfinal.pdf
+file: /courses/21m-775-hip-hop-fall-2007/1e0f91d135677e1218231b2ae682530b_headenfinal.pdf
 file_size: 69995
 file_type: application/pdf
 learning_resource_types:
